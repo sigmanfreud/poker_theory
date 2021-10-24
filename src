@@ -1,0 +1,37 @@
+\documentclass{book}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+
+\title{Some Poker Variants and Theory: An Algorithmic and Statistical Approach}
+\author{Sparsho De }
+\date{October 2021}
+
+\begin{document}
+
+\maketitle
+
+\section*{Introduction}
+Several pieces of literature have been produced on Poker Theory. They mostly revolve around the Texas Hold'em variant, and rarely give concrete advice. Instead, they try and instill some sort of probabilistic intuition.
+
+On the other hand, academic literature only deals formally with the Kuhn Variant (explained later). For more complicated variants, they utilize esoteric machine learning algorithms which can't possibly be of any relevance to the casual (or not casual) poker player.
+
+In this book, we assume some familiarity with probability and combinatorics (say, at the level of Concrete Mathematics, by Knuth), and we hope to extend that same level of rigor and problem solving to the actual practice of playing Poker.
+
+Perhaps a good audience for this book would be anyone interested in attending a University Math Dept. Seminar regarding Game Theory, or Poker specifically.
+
+\newpage
+
+\tableofcontents
+
+\chapter{Some Not-So-Well-Known Variants}
+
+\section*{Knuth Variant}
+
+I don't imagine there will every be a scenario where you will be asked to play the Knuth variant of Poker, but I think it holds some mathematical importance. Even if you don't find that to be the case, It's still worth covering for the sake of completeness. 
+
+\section*{Heads-up Variant}
+
+
+
+\end{document}
